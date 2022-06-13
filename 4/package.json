@@ -1,0 +1,12 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab4.js",
+  "scripts": {
+    "start": "node lab4.js"
+  },
+  "keywords": [],
+  "author": "Dmytro Kuts",
+  "license": "ISC"
+}
